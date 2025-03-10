@@ -17,3 +17,4 @@ All notable changes to this project.
 - [2025-03-06] Update: watchlist matching algorithm
 - [2025-03-06] Fix: address validation edge cases
 - [2025-03-07] Docs: regulatory framework notes
+- [2025-03-09] Add: transaction risk scoring model

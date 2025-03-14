@@ -27,3 +27,4 @@ All notable changes to this project.
 - [2025-03-12] Refactor: compliance validation logic
 - [2025-03-12] Add: sanctions screening documentation
 - [2025-03-14] Research: DeFi compliance requirements
+- [2025-03-14] Docs: regulatory framework notes

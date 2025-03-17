@@ -35,3 +35,4 @@ All notable changes to this project.
 - [2025-03-17] Docs: regulatory framework notes
 - [2025-03-17] Fix: address validation edge cases
 - [2025-03-17] Research: DeFi compliance requirements
+- [2025-03-17] Update: AML risk assessment methodology

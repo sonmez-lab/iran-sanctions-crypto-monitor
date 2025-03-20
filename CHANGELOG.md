@@ -42,3 +42,4 @@ All notable changes to this project.
 - [2025-03-19] Add: sanctions screening documentation
 - [2025-03-19] Refactor: compliance validation logic
 - [2025-03-20] Update: watchlist matching algorithm
+- [2025-03-20] Update: watchlist matching algorithm

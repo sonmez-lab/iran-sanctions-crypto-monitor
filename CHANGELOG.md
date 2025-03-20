@@ -39,3 +39,4 @@ All notable changes to this project.
 - [2025-03-18] Fix: address validation edge cases
 - [2025-03-19] Update: watchlist matching algorithm
 - [2025-03-19] Docs: API integration guidelines
+- [2025-03-19] Add: sanctions screening documentation

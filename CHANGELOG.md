@@ -47,3 +47,4 @@ All notable changes to this project.
 - [2025-03-21] Fix: address validation edge cases
 - [2025-03-21] Update: watchlist matching algorithm
 - [2025-03-21] Add: smart contract audit findings
+- [2025-03-21] Research: cross-border transaction monitoring

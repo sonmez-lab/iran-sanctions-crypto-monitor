@@ -58,3 +58,4 @@ All notable changes to this project.
 - [2025-03-27] Research: cross-border transaction monitoring
 - [2025-03-27] Research: cross-border transaction monitoring
 - [2025-03-27] Analysis: FATF travel rule implementation
+- [2025-03-27] Update: AML risk assessment methodology

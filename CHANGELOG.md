@@ -62,3 +62,4 @@ All notable changes to this project.
 - [2025-03-28] Update: OFAC SDN list integration
 - [2025-03-28] Update: watchlist matching algorithm
 - [2025-03-28] Docs: API integration guidelines
+- [2025-03-28] Add: sanctions screening documentation

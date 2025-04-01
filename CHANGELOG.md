@@ -69,3 +69,4 @@ All notable changes to this project.
 - [2025-03-31] Update: OFAC SDN list integration
 - [2025-03-31] Analysis: FATF travel rule implementation
 - [2025-03-31] Refactor: compliance validation logic
+- [2025-03-31] Research: blockchain compliance analysis

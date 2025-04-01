@@ -72,3 +72,4 @@ All notable changes to this project.
 - [2025-03-31] Research: blockchain compliance analysis
 - [2025-04-01] Add: sanctions screening documentation
 - [2025-04-01] Add: transaction risk scoring model
+- [2025-04-01] Research: cross-border transaction monitoring

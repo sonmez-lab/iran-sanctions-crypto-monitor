@@ -70,3 +70,4 @@ All notable changes to this project.
 - [2025-03-31] Analysis: FATF travel rule implementation
 - [2025-03-31] Refactor: compliance validation logic
 - [2025-03-31] Research: blockchain compliance analysis
+- [2025-04-01] Add: sanctions screening documentation

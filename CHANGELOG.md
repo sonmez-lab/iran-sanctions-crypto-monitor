@@ -76,3 +76,4 @@ All notable changes to this project.
 - [2025-04-01] Update: OFAC SDN list integration
 - [2025-04-02] Research: DeFi compliance requirements
 - [2025-04-02] Research: cross-border transaction monitoring
+- [2025-04-02] Refactor: compliance validation logic

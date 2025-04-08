@@ -85,3 +85,4 @@ All notable changes to this project.
 - [2025-04-05] Update: OFAC SDN list integration
 - [2025-04-07] Research: blockchain compliance analysis
 - [2025-04-07] Add: transaction risk scoring model
+- [2025-04-08] Add: sanctions screening documentation

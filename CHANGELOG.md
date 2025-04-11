@@ -90,3 +90,4 @@ All notable changes to this project.
 - [2025-04-10] Add: transaction risk scoring model
 - [2025-04-10] Update: KYC/KYT process documentation
 - [2025-04-10] Docs: API integration guidelines
+- [2025-04-11] Fix: address validation edge cases

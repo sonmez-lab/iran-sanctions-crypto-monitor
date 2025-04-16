@@ -102,3 +102,4 @@ All notable changes to this project.
 - [2025-04-14] Add: sanctions screening documentation
 - [2025-04-16] Update: OFAC SDN list integration
 - [2025-04-16] Research: cross-border transaction monitoring
+- [2025-04-16] Docs: regulatory framework notes

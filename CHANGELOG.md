@@ -104,3 +104,4 @@ All notable changes to this project.
 - [2025-04-16] Research: cross-border transaction monitoring
 - [2025-04-16] Docs: regulatory framework notes
 - [2025-04-16] Docs: API integration guidelines
+- [2025-04-17] Update: watchlist matching algorithm

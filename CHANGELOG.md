@@ -106,3 +106,4 @@ All notable changes to this project.
 - [2025-04-16] Docs: API integration guidelines
 - [2025-04-17] Update: watchlist matching algorithm
 - [2025-04-17] Update: OFAC SDN list integration
+- [2025-04-17] Docs: regulatory framework notes

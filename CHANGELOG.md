@@ -114,3 +114,4 @@ All notable changes to this project.
 - [2025-04-21] Docs: API integration guidelines
 - [2025-04-22] Update: KYC/KYT process documentation
 - [2025-04-22] Docs: API integration guidelines
+- [2025-04-23] Docs: API integration guidelines

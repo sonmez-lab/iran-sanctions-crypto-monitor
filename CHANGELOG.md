@@ -116,3 +116,4 @@ All notable changes to this project.
 - [2025-04-22] Docs: API integration guidelines
 - [2025-04-23] Docs: API integration guidelines
 - [2025-04-25] Research: DeFi compliance requirements
+- [2025-04-25] Add: transaction risk scoring model

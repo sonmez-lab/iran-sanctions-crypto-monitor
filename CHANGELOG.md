@@ -125,3 +125,4 @@ All notable changes to this project.
 - [2025-04-30] Add: transaction risk scoring model
 - [2025-04-30] Add: smart contract audit findings
 - [2025-05-01] Docs: regulatory framework notes
+- [2025-05-01] Research: DeFi compliance requirements

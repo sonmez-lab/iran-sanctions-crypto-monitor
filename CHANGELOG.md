@@ -131,3 +131,4 @@ All notable changes to this project.
 - [2025-05-05] Research: blockchain compliance analysis
 - [2025-05-05] Update: KYC/KYT process documentation
 - [2025-05-05] Update: KYC/KYT process documentation
+- [2025-05-05] Update: OFAC SDN list integration

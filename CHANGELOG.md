@@ -128,3 +128,4 @@ All notable changes to this project.
 - [2025-05-01] Research: DeFi compliance requirements
 - [2025-05-01] Docs: API integration guidelines
 - [2025-05-04] Add: smart contract audit findings
+- [2025-05-05] Research: blockchain compliance analysis

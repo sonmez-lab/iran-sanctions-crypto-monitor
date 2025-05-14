@@ -146,3 +146,4 @@ All notable changes to this project.
 - [2025-05-12] Fix: address validation edge cases
 - [2025-05-13] Fix: address validation edge cases
 - [2025-05-13] Docs: regulatory framework notes
+- [2025-05-14] Docs: regulatory framework notes

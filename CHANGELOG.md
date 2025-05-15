@@ -150,3 +150,4 @@ All notable changes to this project.
 - [2025-05-14] Analysis: FATF travel rule implementation
 - [2025-05-14] Refactor: compliance validation logic
 - [2025-05-15] Docs: API integration guidelines
+- [2025-05-15] Add: sanctions screening documentation

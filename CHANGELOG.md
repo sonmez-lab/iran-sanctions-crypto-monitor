@@ -151,3 +151,4 @@ All notable changes to this project.
 - [2025-05-14] Refactor: compliance validation logic
 - [2025-05-15] Docs: API integration guidelines
 - [2025-05-15] Add: sanctions screening documentation
+- [2025-05-15] Update: AML risk assessment methodology

@@ -153,3 +153,4 @@ All notable changes to this project.
 - [2025-05-15] Add: sanctions screening documentation
 - [2025-05-15] Update: AML risk assessment methodology
 - [2025-05-16] Docs: regulatory framework notes
+- [2025-05-17] Update: KYC/KYT process documentation

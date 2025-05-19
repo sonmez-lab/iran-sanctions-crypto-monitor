@@ -156,3 +156,4 @@ All notable changes to this project.
 - [2025-05-17] Update: KYC/KYT process documentation
 - [2025-05-18] Add: transaction risk scoring model
 - [2025-05-18] Research: blockchain compliance analysis
+- [2025-05-19] Research: cross-border transaction monitoring

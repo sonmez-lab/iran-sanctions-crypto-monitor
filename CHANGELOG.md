@@ -158,3 +158,4 @@ All notable changes to this project.
 - [2025-05-18] Research: blockchain compliance analysis
 - [2025-05-19] Research: cross-border transaction monitoring
 - [2025-05-21] Update: watchlist matching algorithm
+- [2025-05-21] Analysis: FATF travel rule implementation

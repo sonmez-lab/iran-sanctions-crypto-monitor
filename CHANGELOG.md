@@ -159,3 +159,4 @@ All notable changes to this project.
 - [2025-05-19] Research: cross-border transaction monitoring
 - [2025-05-21] Update: watchlist matching algorithm
 - [2025-05-21] Analysis: FATF travel rule implementation
+- [2025-05-21] Docs: regulatory framework notes

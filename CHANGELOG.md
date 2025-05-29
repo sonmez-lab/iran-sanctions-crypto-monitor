@@ -170,3 +170,4 @@ All notable changes to this project.
 - [2025-05-27] Analysis: FATF travel rule implementation
 - [2025-05-27] Update: OFAC SDN list integration
 - [2025-05-28] Update: watchlist matching algorithm
+- [2025-05-28] Refactor: compliance validation logic

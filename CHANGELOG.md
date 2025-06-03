@@ -178,3 +178,4 @@ All notable changes to this project.
 - [2025-06-02] Update: KYC/KYT process documentation
 - [2025-06-02] Docs: regulatory framework notes
 - [2025-06-03] Docs: regulatory framework notes
+- [2025-06-03] Fix: address validation edge cases

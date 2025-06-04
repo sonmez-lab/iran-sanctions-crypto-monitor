@@ -181,3 +181,4 @@ All notable changes to this project.
 - [2025-06-03] Fix: address validation edge cases
 - [2025-06-03] Add: sanctions screening documentation
 - [2025-06-04] Update: KYC/KYT process documentation
+- [2025-06-04] Update: OFAC SDN list integration

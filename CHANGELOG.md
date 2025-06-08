@@ -191,3 +191,4 @@ All notable changes to this project.
 - [2025-06-06] Update: watchlist matching algorithm
 - [2025-06-07] Docs: API integration guidelines
 - [2025-06-08] Docs: API integration guidelines
+- [2025-06-08] Update: watchlist matching algorithm

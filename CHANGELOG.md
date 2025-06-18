@@ -208,3 +208,4 @@ All notable changes to this project.
 - [2025-06-16] Docs: API integration guidelines
 - [2025-06-16] Update: OFAC SDN list integration
 - [2025-06-17] Research: cross-border transaction monitoring
+- [2025-06-18] Update: AML risk assessment methodology

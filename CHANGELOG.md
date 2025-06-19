@@ -210,3 +210,4 @@ All notable changes to this project.
 - [2025-06-17] Research: cross-border transaction monitoring
 - [2025-06-18] Update: AML risk assessment methodology
 - [2025-06-18] Update: watchlist matching algorithm
+- [2025-06-18] Refactor: compliance validation logic

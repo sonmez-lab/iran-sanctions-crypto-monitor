@@ -218,3 +218,4 @@ All notable changes to this project.
 - [2025-06-20] Update: watchlist matching algorithm
 - [2025-06-21] Update: watchlist matching algorithm
 - [2025-06-21] Update: KYC/KYT process documentation
+- [2025-06-22] Update: KYC/KYT process documentation

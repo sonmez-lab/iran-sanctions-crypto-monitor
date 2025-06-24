@@ -222,3 +222,4 @@ All notable changes to this project.
 - [2025-06-23] Add: sanctions screening documentation
 - [2025-06-23] Update: watchlist matching algorithm
 - [2025-06-24] Add: sanctions screening documentation
+- [2025-06-24] Research: cross-border transaction monitoring

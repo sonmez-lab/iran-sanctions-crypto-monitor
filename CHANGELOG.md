@@ -225,3 +225,4 @@ All notable changes to this project.
 - [2025-06-24] Research: cross-border transaction monitoring
 - [2025-06-25] Fix: address validation edge cases
 - [2025-06-25] Docs: API integration guidelines
+- [2025-06-25] Research: blockchain compliance analysis

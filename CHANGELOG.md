@@ -230,3 +230,4 @@ All notable changes to this project.
 - [2025-06-27] Add: sanctions screening documentation
 - [2025-06-28] Update: OFAC SDN list integration
 - [2025-06-29] Update: watchlist matching algorithm
+- [2025-06-30] Update: watchlist matching algorithm

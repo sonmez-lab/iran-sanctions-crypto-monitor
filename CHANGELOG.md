@@ -232,3 +232,4 @@ All notable changes to this project.
 - [2025-06-29] Update: watchlist matching algorithm
 - [2025-06-30] Update: watchlist matching algorithm
 - [2025-07-01] Docs: API integration guidelines
+- [2025-07-01] Update: watchlist matching algorithm

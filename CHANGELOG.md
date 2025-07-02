@@ -235,3 +235,4 @@ All notable changes to this project.
 - [2025-07-01] Update: watchlist matching algorithm
 - [2025-07-01] Add: smart contract audit findings
 - [2025-07-01] Research: cross-border transaction monitoring
+- [2025-07-02] Add: sanctions screening documentation

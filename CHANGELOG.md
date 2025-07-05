@@ -238,3 +238,4 @@ All notable changes to this project.
 - [2025-07-02] Add: sanctions screening documentation
 - [2025-07-03] Refactor: compliance validation logic
 - [2025-07-04] Add: sanctions screening documentation
+- [2025-07-04] Update: OFAC SDN list integration

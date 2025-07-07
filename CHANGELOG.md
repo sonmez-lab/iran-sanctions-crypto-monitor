@@ -244,3 +244,4 @@ All notable changes to this project.
 - [2025-07-05] Add: transaction risk scoring model
 - [2025-07-06] Update: watchlist matching algorithm
 - [2025-07-06] Refactor: compliance validation logic
+- [2025-07-07] Add: smart contract audit findings

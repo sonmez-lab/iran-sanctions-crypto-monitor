@@ -250,3 +250,4 @@ All notable changes to this project.
 - [2025-07-09] Refactor: compliance validation logic
 - [2025-07-09] Refactor: compliance validation logic
 - [2025-07-09] Analysis: FATF travel rule implementation
+- [2025-07-09] Update: OFAC SDN list integration

@@ -247,3 +247,4 @@ All notable changes to this project.
 - [2025-07-07] Add: smart contract audit findings
 - [2025-07-08] Docs: regulatory framework notes
 - [2025-07-08] Update: OFAC SDN list integration
+- [2025-07-09] Refactor: compliance validation logic

@@ -251,3 +251,4 @@ All notable changes to this project.
 - [2025-07-09] Refactor: compliance validation logic
 - [2025-07-09] Analysis: FATF travel rule implementation
 - [2025-07-09] Update: OFAC SDN list integration
+- [2025-07-10] Research: cross-border transaction monitoring

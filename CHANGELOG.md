@@ -256,3 +256,4 @@ All notable changes to this project.
 - [2025-07-10] Update: AML risk assessment methodology
 - [2025-07-10] Analysis: FATF travel rule implementation
 - [2025-07-13] Docs: regulatory framework notes
+- [2025-07-13] Research: blockchain compliance analysis

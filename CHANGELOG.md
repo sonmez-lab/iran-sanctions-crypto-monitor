@@ -265,3 +265,4 @@ All notable changes to this project.
 - [2025-07-18] Research: cross-border transaction monitoring
 - [2025-07-18] Update: AML risk assessment methodology
 - [2025-07-18] Add: sanctions screening documentation
+- [2025-07-20] Research: cross-border transaction monitoring

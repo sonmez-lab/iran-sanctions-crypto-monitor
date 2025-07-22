@@ -267,3 +267,4 @@ All notable changes to this project.
 - [2025-07-18] Add: sanctions screening documentation
 - [2025-07-20] Research: cross-border transaction monitoring
 - [2025-07-20] Refactor: compliance validation logic
+- [2025-07-21] Docs: API integration guidelines

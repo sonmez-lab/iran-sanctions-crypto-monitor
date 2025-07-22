@@ -271,3 +271,4 @@ All notable changes to this project.
 - [2025-07-21] Research: DeFi compliance requirements
 - [2025-07-21] Docs: regulatory framework notes
 - [2025-07-21] Research: DeFi compliance requirements
+- [2025-07-22] Analysis: FATF travel rule implementation

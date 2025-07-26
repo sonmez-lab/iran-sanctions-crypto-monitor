@@ -278,3 +278,4 @@ All notable changes to this project.
 - [2025-07-23] Research: blockchain compliance analysis
 - [2025-07-24] Update: KYC/KYT process documentation
 - [2025-07-24] Research: DeFi compliance requirements
+- [2025-07-25] Research: cross-border transaction monitoring

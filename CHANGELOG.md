@@ -284,3 +284,4 @@ All notable changes to this project.
 - [2025-07-25] Docs: API integration guidelines
 - [2025-07-27] Refactor: compliance validation logic
 - [2025-07-28] Research: blockchain compliance analysis
+- [2025-07-28] Update: watchlist matching algorithm

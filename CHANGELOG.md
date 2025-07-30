@@ -287,3 +287,4 @@ All notable changes to this project.
 - [2025-07-28] Update: watchlist matching algorithm
 - [2025-07-28] Refactor: compliance validation logic
 - [2025-07-29] Research: cross-border transaction monitoring
+- [2025-07-29] Update: OFAC SDN list integration

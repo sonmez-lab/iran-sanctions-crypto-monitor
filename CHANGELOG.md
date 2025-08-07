@@ -309,3 +309,4 @@ All notable changes to this project.
 - [2025-08-06] Docs: API integration guidelines
 - [2025-08-06] Update: OFAC SDN list integration
 - [2025-08-06] Add: smart contract audit findings
+- [2025-08-06] Refactor: compliance validation logic

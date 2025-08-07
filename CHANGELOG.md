@@ -306,3 +306,4 @@ All notable changes to this project.
 - [2025-08-05] Update: OFAC SDN list integration
 - [2025-08-05] Research: cross-border transaction monitoring
 - [2025-08-05] Fix: address validation edge cases
+- [2025-08-06] Docs: API integration guidelines

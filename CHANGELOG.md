@@ -315,3 +315,4 @@ All notable changes to this project.
 - [2025-08-07] Update: OFAC SDN list integration
 - [2025-08-07] Analysis: FATF travel rule implementation
 - [2025-08-08] Update: KYC/KYT process documentation
+- [2025-08-08] Add: smart contract audit findings

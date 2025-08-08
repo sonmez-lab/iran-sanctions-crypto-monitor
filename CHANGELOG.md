@@ -311,3 +311,4 @@ All notable changes to this project.
 - [2025-08-06] Add: smart contract audit findings
 - [2025-08-06] Refactor: compliance validation logic
 - [2025-08-07] Add: smart contract audit findings
+- [2025-08-07] Fix: address validation edge cases

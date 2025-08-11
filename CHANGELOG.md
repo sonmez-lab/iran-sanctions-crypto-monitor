@@ -318,3 +318,4 @@ All notable changes to this project.
 - [2025-08-08] Add: smart contract audit findings
 - [2025-08-08] Update: watchlist matching algorithm
 - [2025-08-08] Analysis: FATF travel rule implementation
+- [2025-08-11] Update: KYC/KYT process documentation

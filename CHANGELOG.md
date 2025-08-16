@@ -333,3 +333,4 @@ All notable changes to this project.
 - [2025-08-15] Refactor: compliance validation logic
 - [2025-08-15] Update: KYC/KYT process documentation
 - [2025-08-16] Add: transaction risk scoring model
+- [2025-08-16] Research: cross-border transaction monitoring

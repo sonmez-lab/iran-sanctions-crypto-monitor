@@ -335,3 +335,4 @@ All notable changes to this project.
 - [2025-08-16] Add: transaction risk scoring model
 - [2025-08-16] Research: cross-border transaction monitoring
 - [2025-08-19] Update: watchlist matching algorithm
+- [2025-08-19] Research: blockchain compliance analysis

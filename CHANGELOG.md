@@ -338,3 +338,4 @@ All notable changes to this project.
 - [2025-08-19] Research: blockchain compliance analysis
 - [2025-08-19] Add: smart contract audit findings
 - [2025-08-19] Update: AML risk assessment methodology
+- [2025-08-21] Update: OFAC SDN list integration

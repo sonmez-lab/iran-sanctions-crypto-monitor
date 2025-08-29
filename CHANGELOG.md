@@ -346,3 +346,4 @@ All notable changes to this project.
 - [2025-08-26] Add: transaction risk scoring model
 - [2025-08-27] Update: watchlist matching algorithm
 - [2025-08-27] Docs: API integration guidelines
+- [2025-08-28] Update: AML risk assessment methodology

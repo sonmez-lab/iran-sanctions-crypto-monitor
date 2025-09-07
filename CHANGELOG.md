@@ -365,3 +365,4 @@ All notable changes to this project.
 - [2025-09-04] Docs: regulatory framework notes
 - [2025-09-04] Update: AML risk assessment methodology
 - [2025-09-05] Research: blockchain compliance analysis
+- [2025-09-07] Add: transaction risk scoring model

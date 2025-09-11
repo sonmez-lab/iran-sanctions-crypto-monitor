@@ -371,3 +371,4 @@ All notable changes to this project.
 - [2025-09-10] Add: smart contract audit findings
 - [2025-09-11] Research: blockchain compliance analysis
 - [2025-09-11] Analysis: FATF travel rule implementation
+- [2025-09-11] Update: watchlist matching algorithm

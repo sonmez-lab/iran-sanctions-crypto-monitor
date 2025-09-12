@@ -373,3 +373,4 @@ All notable changes to this project.
 - [2025-09-11] Analysis: FATF travel rule implementation
 - [2025-09-11] Update: watchlist matching algorithm
 - [2025-09-11] Research: blockchain compliance analysis
+- [2025-09-12] Docs: API integration guidelines

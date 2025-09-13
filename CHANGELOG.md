@@ -377,3 +377,4 @@ All notable changes to this project.
 - [2025-09-12] Update: watchlist matching algorithm
 - [2025-09-12] Research: cross-border transaction monitoring
 - [2025-09-13] Research: blockchain compliance analysis
+- [2025-09-13] Update: KYC/KYT process documentation

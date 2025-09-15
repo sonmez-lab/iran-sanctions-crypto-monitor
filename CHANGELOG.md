@@ -379,3 +379,4 @@ All notable changes to this project.
 - [2025-09-13] Research: blockchain compliance analysis
 - [2025-09-13] Update: KYC/KYT process documentation
 - [2025-09-14] Docs: regulatory framework notes
+- [2025-09-15] Docs: API integration guidelines

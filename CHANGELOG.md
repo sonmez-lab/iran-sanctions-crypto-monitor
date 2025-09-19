@@ -390,3 +390,4 @@ All notable changes to this project.
 - [2025-09-18] Docs: API integration guidelines
 - [2025-09-19] Research: blockchain compliance analysis
 - [2025-09-19] Add: smart contract audit findings
+- [2025-09-19] Add: transaction risk scoring model

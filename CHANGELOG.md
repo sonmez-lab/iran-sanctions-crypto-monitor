@@ -389,3 +389,4 @@ All notable changes to this project.
 - [2025-09-17] Refactor: compliance validation logic
 - [2025-09-18] Docs: API integration guidelines
 - [2025-09-19] Research: blockchain compliance analysis
+- [2025-09-19] Add: smart contract audit findings

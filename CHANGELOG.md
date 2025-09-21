@@ -393,3 +393,4 @@ All notable changes to this project.
 - [2025-09-19] Add: transaction risk scoring model
 - [2025-09-19] Update: watchlist matching algorithm
 - [2025-09-20] Update: watchlist matching algorithm
+- [2025-09-21] Docs: API integration guidelines

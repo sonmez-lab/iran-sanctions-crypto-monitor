@@ -398,3 +398,4 @@ All notable changes to this project.
 - [2025-09-22] Update: KYC/KYT process documentation
 - [2025-09-22] Docs: API integration guidelines
 - [2025-09-22] Docs: API integration guidelines
+- [2025-09-22] Research: cross-border transaction monitoring

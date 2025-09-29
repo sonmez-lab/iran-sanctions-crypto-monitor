@@ -411,3 +411,4 @@ All notable changes to this project.
 - [2025-09-26] Docs: regulatory framework notes
 - [2025-09-28] Analysis: FATF travel rule implementation
 - [2025-09-28] Docs: regulatory framework notes
+- [2025-09-29] Update: AML risk assessment methodology

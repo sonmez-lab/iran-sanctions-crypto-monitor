@@ -418,3 +418,4 @@ All notable changes to this project.
 - [2025-10-01] Update: KYC/KYT process documentation
 - [2025-10-01] Docs: regulatory framework notes
 - [2025-10-01] Refactor: compliance validation logic
+- [2025-10-01] Update: OFAC SDN list integration

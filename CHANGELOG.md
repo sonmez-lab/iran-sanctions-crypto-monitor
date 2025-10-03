@@ -423,3 +423,4 @@ All notable changes to this project.
 - [2025-10-02] Update: KYC/KYT process documentation
 - [2025-10-03] Research: DeFi compliance requirements
 - [2025-10-03] Add: sanctions screening documentation
+- [2025-10-03] Analysis: FATF travel rule implementation

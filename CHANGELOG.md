@@ -431,3 +431,4 @@ All notable changes to this project.
 - [2025-10-10] Research: cross-border transaction monitoring
 - [2025-10-13] Update: OFAC SDN list integration
 - [2025-10-13] Docs: API integration guidelines
+- [2025-10-13] Research: cross-border transaction monitoring

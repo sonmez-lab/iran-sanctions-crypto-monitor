@@ -440,3 +440,4 @@ All notable changes to this project.
 - [2025-10-15] Add: smart contract audit findings
 - [2025-10-15] Research: cross-border transaction monitoring
 - [2025-10-15] Docs: regulatory framework notes
+- [2025-10-15] Update: OFAC SDN list integration

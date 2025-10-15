@@ -434,3 +434,4 @@ All notable changes to this project.
 - [2025-10-13] Research: cross-border transaction monitoring
 - [2025-10-13] Update: KYC/KYT process documentation
 - [2025-10-14] Analysis: FATF travel rule implementation
+- [2025-10-14] Fix: address validation edge cases

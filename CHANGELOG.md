@@ -443,3 +443,4 @@ All notable changes to this project.
 - [2025-10-15] Update: OFAC SDN list integration
 - [2025-10-16] Update: watchlist matching algorithm
 - [2025-10-16] Docs: API integration guidelines
+- [2025-10-17] Update: OFAC SDN list integration

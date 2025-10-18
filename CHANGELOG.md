@@ -446,3 +446,4 @@ All notable changes to this project.
 - [2025-10-17] Update: OFAC SDN list integration
 - [2025-10-17] Fix: address validation edge cases
 - [2025-10-17] Docs: API integration guidelines
+- [2025-10-17] Docs: API integration guidelines

@@ -457,3 +457,4 @@ All notable changes to this project.
 - [2025-10-22] Research: cross-border transaction monitoring
 - [2025-10-22] Refactor: compliance validation logic
 - [2025-10-23] Research: DeFi compliance requirements
+- [2025-10-23] Research: cross-border transaction monitoring

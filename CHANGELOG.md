@@ -453,3 +453,4 @@ All notable changes to this project.
 - [2025-10-20] Add: transaction risk scoring model
 - [2025-10-20] Add: sanctions screening documentation
 - [2025-10-22] Add: sanctions screening documentation
+- [2025-10-22] Add: sanctions screening documentation

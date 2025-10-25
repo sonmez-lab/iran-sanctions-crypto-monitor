@@ -460,3 +460,4 @@ All notable changes to this project.
 - [2025-10-23] Research: cross-border transaction monitoring
 - [2025-10-23] Add: sanctions screening documentation
 - [2025-10-23] Docs: regulatory framework notes
+- [2025-10-24] Docs: API integration guidelines

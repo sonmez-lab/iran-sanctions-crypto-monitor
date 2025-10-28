@@ -466,3 +466,4 @@ All notable changes to this project.
 - [2025-10-25] Research: blockchain compliance analysis
 - [2025-10-26] Fix: address validation edge cases
 - [2025-10-26] Update: OFAC SDN list integration
+- [2025-10-27] Update: AML risk assessment methodology

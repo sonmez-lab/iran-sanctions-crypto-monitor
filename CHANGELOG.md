@@ -474,3 +474,4 @@ All notable changes to this project.
 - [2025-10-30] Refactor: compliance validation logic
 - [2025-10-30] Update: OFAC SDN list integration
 - [2025-10-30] Refactor: compliance validation logic
+- [2025-10-30] Refactor: compliance validation logic

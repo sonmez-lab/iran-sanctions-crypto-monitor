@@ -477,3 +477,4 @@ All notable changes to this project.
 - [2025-10-30] Refactor: compliance validation logic
 - [2025-10-31] Docs: API integration guidelines
 - [2025-10-31] Research: cross-border transaction monitoring
+- [2025-10-31] Docs: API integration guidelines

@@ -484,3 +484,4 @@ All notable changes to this project.
 - [2025-11-03] Research: DeFi compliance requirements
 - [2025-11-03] Update: KYC/KYT process documentation
 - [2025-11-04] Docs: API integration guidelines
+- [2025-11-04] Update: OFAC SDN list integration

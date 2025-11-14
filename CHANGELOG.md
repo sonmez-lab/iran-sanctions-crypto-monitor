@@ -505,3 +505,4 @@ All notable changes to this project.
 - [2025-11-12] Refactor: compliance validation logic
 - [2025-11-12] Add: transaction risk scoring model
 - [2025-11-12] Add: sanctions screening documentation
+- [2025-11-13] Update: OFAC SDN list integration

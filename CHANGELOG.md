@@ -508,3 +508,4 @@ All notable changes to this project.
 - [2025-11-13] Update: OFAC SDN list integration
 - [2025-11-14] Fix: address validation edge cases
 - [2025-11-14] Update: watchlist matching algorithm
+- [2025-11-16] Add: sanctions screening documentation

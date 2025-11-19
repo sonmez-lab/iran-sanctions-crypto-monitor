@@ -514,3 +514,4 @@ All notable changes to this project.
 - [2025-11-17] Update: KYC/KYT process documentation
 - [2025-11-18] Analysis: FATF travel rule implementation
 - [2025-11-18] Docs: regulatory framework notes
+- [2025-11-18] Update: watchlist matching algorithm

@@ -519,3 +519,4 @@ All notable changes to this project.
 - [2025-11-19] Research: DeFi compliance requirements
 - [2025-11-21] Docs: regulatory framework notes
 - [2025-11-22] Docs: regulatory framework notes
+- [2025-11-24] Research: blockchain compliance analysis

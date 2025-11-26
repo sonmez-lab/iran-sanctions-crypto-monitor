@@ -524,3 +524,4 @@ All notable changes to this project.
 - [2025-11-24] Update: AML risk assessment methodology
 - [2025-11-25] Update: AML risk assessment methodology
 - [2025-11-25] Add: smart contract audit findings
+- [2025-11-26] Analysis: FATF travel rule implementation

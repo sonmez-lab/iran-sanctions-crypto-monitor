@@ -529,3 +529,4 @@ All notable changes to this project.
 - [2025-11-27] Research: blockchain compliance analysis
 - [2025-11-27] Research: DeFi compliance requirements
 - [2025-11-28] Research: blockchain compliance analysis
+- [2025-11-28] Add: sanctions screening documentation

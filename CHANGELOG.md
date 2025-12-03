@@ -531,3 +531,4 @@ All notable changes to this project.
 - [2025-11-28] Research: blockchain compliance analysis
 - [2025-11-28] Add: sanctions screening documentation
 - [2025-11-28] Research: cross-border transaction monitoring
+- [2025-12-02] Refactor: compliance validation logic

@@ -535,3 +535,4 @@ All notable changes to this project.
 - [2025-12-02] Docs: regulatory framework notes
 - [2025-12-02] Docs: regulatory framework notes
 - [2025-12-04] Add: smart contract audit findings
+- [2025-12-04] Update: AML risk assessment methodology

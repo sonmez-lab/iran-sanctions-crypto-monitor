@@ -550,3 +550,4 @@ All notable changes to this project.
 - [2025-12-08] Update: watchlist matching algorithm
 - [2025-12-09] Docs: API integration guidelines
 - [2025-12-10] Add: sanctions screening documentation
+- [2025-12-10] Refactor: compliance validation logic

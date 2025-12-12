@@ -555,3 +555,4 @@ All notable changes to this project.
 - [2025-12-11] Docs: regulatory framework notes
 - [2025-12-11] Update: OFAC SDN list integration
 - [2025-12-12] Fix: address validation edge cases
+- [2025-12-12] Add: transaction risk scoring model

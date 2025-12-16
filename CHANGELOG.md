@@ -559,3 +559,4 @@ All notable changes to this project.
 - [2025-12-14] Update: watchlist matching algorithm
 - [2025-12-15] Analysis: FATF travel rule implementation
 - [2025-12-15] Refactor: compliance validation logic
+- [2025-12-16] Update: watchlist matching algorithm

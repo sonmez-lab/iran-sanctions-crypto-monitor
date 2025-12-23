@@ -568,3 +568,4 @@ All notable changes to this project.
 - [2025-12-20] Analysis: FATF travel rule implementation
 - [2025-12-21] Docs: API integration guidelines
 - [2025-12-22] Add: transaction risk scoring model
+- [2025-12-22] Refactor: compliance validation logic

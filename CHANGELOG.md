@@ -570,3 +570,4 @@ All notable changes to this project.
 - [2025-12-22] Add: transaction risk scoring model
 - [2025-12-22] Refactor: compliance validation logic
 - [2025-12-24] Analysis: FATF travel rule implementation
+- [2025-12-24] Update: OFAC SDN list integration

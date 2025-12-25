@@ -573,3 +573,4 @@ All notable changes to this project.
 - [2025-12-24] Update: OFAC SDN list integration
 - [2025-12-25] Update: AML risk assessment methodology
 - [2025-12-25] Refactor: compliance validation logic
+- [2025-12-25] Analysis: FATF travel rule implementation

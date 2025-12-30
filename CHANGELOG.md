@@ -580,3 +580,4 @@ All notable changes to this project.
 - [2025-12-29] Update: OFAC SDN list integration
 - [2025-12-29] Update: watchlist matching algorithm
 - [2025-12-29] Add: sanctions screening documentation
+- [2025-12-30] Add: smart contract audit findings

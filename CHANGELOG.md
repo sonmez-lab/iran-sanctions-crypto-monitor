@@ -588,3 +588,4 @@ All notable changes to this project.
 - [2025-12-31] Update: OFAC SDN list integration
 - [2026-01-01] Update: KYC/KYT process documentation
 - [2026-01-02] Fix: address validation edge cases
+- [2026-01-02] Update: AML risk assessment methodology

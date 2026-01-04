@@ -589,3 +589,4 @@ All notable changes to this project.
 - [2026-01-01] Update: KYC/KYT process documentation
 - [2026-01-02] Fix: address validation edge cases
 - [2026-01-02] Update: AML risk assessment methodology
+- [2026-01-04] Add: transaction risk scoring model

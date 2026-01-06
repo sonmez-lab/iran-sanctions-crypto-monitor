@@ -592,3 +592,4 @@ All notable changes to this project.
 - [2026-01-04] Add: transaction risk scoring model
 - [2026-01-04] Analysis: FATF travel rule implementation
 - [2026-01-05] Add: sanctions screening documentation
+- [2026-01-06] Research: blockchain compliance analysis

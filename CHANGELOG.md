@@ -598,3 +598,4 @@ All notable changes to this project.
 - [2026-01-07] Docs: regulatory framework notes
 - [2026-01-07] Update: OFAC SDN list integration
 - [2026-01-07] Update: KYC/KYT process documentation
+- [2026-01-07] Docs: API integration guidelines

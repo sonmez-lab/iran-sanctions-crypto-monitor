@@ -596,3 +596,4 @@ All notable changes to this project.
 - [2026-01-06] Research: blockchain compliance analysis
 - [2026-01-06] Update: OFAC SDN list integration
 - [2026-01-07] Docs: regulatory framework notes
+- [2026-01-07] Update: OFAC SDN list integration

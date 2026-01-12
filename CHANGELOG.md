@@ -603,3 +603,4 @@ All notable changes to this project.
 - [2026-01-09] Update: AML risk assessment methodology
 - [2026-01-10] Add: sanctions screening documentation
 - [2026-01-12] Add: smart contract audit findings
+- [2026-01-12] Docs: regulatory framework notes

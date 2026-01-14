@@ -607,3 +607,4 @@ All notable changes to this project.
 - [2026-01-12] Add: sanctions screening documentation
 - [2026-01-12] Add: smart contract audit findings
 - [2026-01-13] Research: blockchain compliance analysis
+- [2026-01-13] Update: KYC/KYT process documentation

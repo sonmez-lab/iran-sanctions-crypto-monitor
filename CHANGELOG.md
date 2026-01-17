@@ -614,3 +614,4 @@ All notable changes to this project.
 - [2026-01-15] Research: DeFi compliance requirements
 - [2026-01-15] Fix: address validation edge cases
 - [2026-01-15] Docs: API integration guidelines
+- [2026-01-17] Add: smart contract audit findings

@@ -625,3 +625,4 @@ All notable changes to this project.
 - [2026-01-20] Docs: regulatory framework notes
 - [2026-01-21] Fix: address validation edge cases
 - [2026-01-21] Update: OFAC SDN list integration
+- [2026-01-21] Update: KYC/KYT process documentation

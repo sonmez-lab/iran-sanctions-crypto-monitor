@@ -641,3 +641,4 @@ All notable changes to this project.
 - [2026-01-28] Research: DeFi compliance requirements
 - [2026-01-29] Research: blockchain compliance analysis
 - [2026-01-29] Research: DeFi compliance requirements
+- [2026-02-01] Research: DeFi compliance requirements

@@ -646,3 +646,4 @@ All notable changes to this project.
 - [2026-02-02] Refactor: compliance validation logic
 - [2026-02-03] Research: blockchain compliance analysis
 - [2026-02-03] Research: cross-border transaction monitoring
+- [2026-02-03] Research: DeFi compliance requirements

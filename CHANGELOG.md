@@ -651,3 +651,4 @@ All notable changes to this project.
 - [2026-02-05] Refactor: compliance validation logic
 - [2026-02-05] Fix: address validation edge cases
 - [2026-02-06] Docs: regulatory framework notes
+- [2026-02-06] Update: KYC/KYT process documentation

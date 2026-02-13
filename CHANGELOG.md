@@ -660,3 +660,4 @@ All notable changes to this project.
 - [2026-02-11] Research: cross-border transaction monitoring
 - [2026-02-12] Update: watchlist matching algorithm
 - [2026-02-13] Docs: API integration guidelines
+- [2026-02-13] Update: watchlist matching algorithm

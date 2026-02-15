@@ -665,3 +665,4 @@ All notable changes to this project.
 - [2026-02-13] Analysis: FATF travel rule implementation
 - [2026-02-14] Fix: address validation edge cases
 - [2026-02-14] Update: OFAC SDN list integration
+- [2026-02-15] Update: OFAC SDN list integration

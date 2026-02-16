@@ -667,3 +667,4 @@ All notable changes to this project.
 - [2026-02-14] Update: OFAC SDN list integration
 - [2026-02-15] Update: OFAC SDN list integration
 - [2026-02-15] Add: transaction risk scoring model
+- [2026-02-16] Add: sanctions screening documentation

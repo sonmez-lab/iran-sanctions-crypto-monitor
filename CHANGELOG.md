@@ -669,3 +669,4 @@ All notable changes to this project.
 - [2026-02-15] Add: transaction risk scoring model
 - [2026-02-16] Add: sanctions screening documentation
 - [2026-02-17] Add: smart contract audit findings
+- [2026-02-18] Docs: API integration guidelines
